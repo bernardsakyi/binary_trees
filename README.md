@@ -1,5 +1,5 @@
 # 0x1D. C - Binary trees
-'c' 'Group project' 'Algorithm' 'Data structure'
+<code>c</code> <code>Group project</code> <code>Algorithm</code> <code>Data structure</code>
 
 ## Resources
 
@@ -61,7 +61,6 @@ typedef struct binary_tree_s avl_t;
 ```
 typedef struct binary_tree_s heap_t;
 ```
-Note: For tasks 0 to 23 (included), you have to deal with simple binary trees. They are not BSTs, thus they don’t follow any kind of rule.
 
 **Note:** For tasks 0 to 23 (included), you have to deal with simple binary trees. They are not BSTs, thus they don’t follow any kind of rule.
 
